@@ -1,0 +1,24 @@
+.not-found {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 80vh;
+}
+
+.not-found h1 {
+  font-size: 6rem;
+  margin-bottom: 1rem;
+  color: #ff5151;
+}
+
+.not-found p {
+  font-size: 1.8rem;
+}
+
+.not-found a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 1.5rem;
+}

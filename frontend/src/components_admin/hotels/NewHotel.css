@@ -1,0 +1,27 @@
+.card.room textarea,
+.card.room .select-region {
+  width: 100%;
+}
+
+.select-region {
+  width: 100%;
+}
+
+.region-select div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.region-select div .add-room {
+  width: auto;
+}
+
+.card.room textarea {
+  background: transparent;
+  color: #fff;
+}
+
+.card.room textarea:focus {
+  outline: transparent;
+}
